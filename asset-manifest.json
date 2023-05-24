@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf53126d.css",
+    "main.js": "/static/js/main.c8674993.js",
+    "static/media/backgrounvideo.mp4": "/static/media/backgrounvideo.f75c0cbcf499be05b2fd.mp4",
+    "static/media/background.jpg": "/static/media/background.2cd4d1dad37c81f7860a.jpg",
+    "static/media/register.png": "/static/media/register.6bd526d2414ff23a4fd1.png",
+    "static/media/login.png": "/static/media/login.83c17c427765a3386b9a.png",
+    "static/media/room-slider2.png": "/static/media/room-slider2.dbb885cdfd5b7d41fc1d.png",
+    "static/media/room-slider4.png": "/static/media/room-slider4.521f407c49121797ac58.png",
+    "static/media/room-slider5.png": "/static/media/room-slider5.7847d6e927c135c9c875.png",
+    "static/media/room-slider3.png": "/static/media/room-slider3.c9c3d9c097ca26a149f8.png",
+    "static/media/forgottenPassword.png": "/static/media/forgottenPassword.de500c313e4adfca3a28.png",
+    "static/media/droom_home.png": "/static/media/droom_home.7d4022229c83fd05fbf7.png",
+    "static/media/3droomlogo.png": "/static/media/3droomlogo.4d66f78eb69b3b2b637f.png",
+    "static/media/profile_icon.png": "/static/media/profile_icon.3c6bc7a906a9e5438b13.png",
+    "static/media/Room1.jpg": "/static/media/Room1.a42d6aece6f31b8e8672.jpg",
+    "static/media/Room3.jpg": "/static/media/Room3.32de4909bae2171d1b8e.jpg",
+    "static/media/profile3.jpg": "/static/media/profile3.09f09cfad7eb969e6c52.jpg",
+    "static/media/google.png": "/static/media/google.e12914ad8afda3f6f2e8.png",
+    "static/media/room-slider1.png": "/static/media/room-slider1.ea58eb0ea66dbfe42c0e.png",
+    "static/media/setting.png": "/static/media/setting.c417b4994f6f1e8e2d3f.png",
+    "static/media/hide_password.png": "/static/media/hide_password.a158ae355602068bd943.png",
+    "static/media/show_password.png": "/static/media/show_password.89d079cfee4892a58c09.png",
+    "static/media/Room2.jpg": "/static/media/Room2.0816c6f6e73e20dbe021.jpg",
+    "index.html": "/index.html",
+    "main.bf53126d.css.map": "/static/css/main.bf53126d.css.map",
+    "main.c8674993.js.map": "/static/js/main.c8674993.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf53126d.css",
+    "static/js/main.c8674993.js"
+  ]
+}
